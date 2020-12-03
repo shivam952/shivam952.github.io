@@ -67,9 +67,10 @@
     padding:10px;
     margin-top:50px;
   }
+  
 }
-.fab:hover{
-  transform: translateY(-5px);
+.fas:hover{
+  transform: scale(1.5);
 }
 
 .button:hover {
